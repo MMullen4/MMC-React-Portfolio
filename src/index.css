@@ -82,12 +82,6 @@ button:focus-visible {
 --fern-green: hsla(124, 20%, 42%, 1);
 --outer-space: hsla(127, 5%, 29%, 1);
 
-/* SCSS HEX */
-$mint-cream: #f1fffaff;
-$tea-green: #ccfccbff;
-$celadon: #96e6b3ff;
-$fern-green: #568259ff;
-$outer-space: #464e47ff;
 
 /* SCSS HSL */
 $mint-cream: hsla(159, 100%, 97%, 1);
