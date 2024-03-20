@@ -3,14 +3,14 @@ export default function Portfolio() {
         {
             title: 'Mullys Text Editor',
             description: 'A simple text editor that can be downloaded and saved to your local machine.',
-            image: "./assets/images/vite.svg",
+            image: "./assets/images/JATE SS.png",
             repo: "https://github.com/MMullen4/Mully-s-Text-Editor",
             deployed: "https://mully-s-text-editor.onrender.com/"
         },
         {
             title: 'Weather Dashboard',
             description: 'This is a weather dashboard that uses the OpenWeather API to retrieve weather data for cities. It also uses local storage to save the last city searched.',
-            image: "./assets/images/Weather Dashboard scr.mht",
+            image: "./assets/images/Weather DB.png",
             repo: "https://github.com/MMullen4/Weather-app",
             deployed: "https://mmullen4.github.io/Weather-app/"
         },
@@ -33,7 +33,7 @@ export default function Portfolio() {
             description: 'This is a work day scheduler that allows users to save events to the calendar.',
             image: "./assets/images/Work Day Scheduler.png",
             repo: "https://github.com/MMullen4/Work-Day-Scheduler",
-            deployed: "Xhttps://mmullen4.github.io/Work-Day-Scheduler/"  // Add more projects as needed.
+            deployed: "https://mmullen4.github.io/Work-Day-Scheduler/"  // Add more projects as needed.
 
         },
     ];
@@ -44,7 +44,10 @@ export default function Portfolio() {
                 <div key={project.title}>
                     <h2>{project.title}</h2>
                     <p>{project.description}</p>
-                    <img src={project.image} alt={project.title} />
+                    <div>
+                        <img src={project.image} alt={project.title} />
+                    </div>
+                    {/* <img src={project.image} alt={project.title} /> */}
                     <a href={project.repo}>Repo</a>
                     <a href={project.deployed}>Deployed</a>
                 </div>
