@@ -14,7 +14,7 @@
 
 ## Description
 This site is a portfolio of several projects I completed during my full-stack coding bootcamp class at UCLA, along with info regarding my background and contact details.
-It will display the latest technologies and skills I've learned through the course. 
+It will display the latest technologies (e.g. Vite and React) and skills I've learned through the course. 
 
 
 ## Visuals

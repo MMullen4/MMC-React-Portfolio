@@ -17,21 +17,21 @@ export default function Portfolio() {
         {
             title: 'Local Restaurant Guide',
             description: 'This is a local restaurant guide that uses the OpenWeather and Google API to retrieve local weather and restaurant data for your chosen cuisine.',
-            image: "./assets/images/LRG Screenshot.png",
+            image: "./assets/images/local RG.png",
             repo: "https://github.com/EdwardBecerra2/Local-Restaurant-Guide-",
             deployed: "https://edwardbecerra2.github.io/Local-Restaurant-Guide-/"
         },
         {
             title: 'Password Generator',
             description: 'This is a password generator that generates a random password based on user input.',
-            image: "./assets/images/Password Generator.png",
+            image: "./assets/images/PW Generate.png",
             repo: "https://github.com/MMullen4/pw-generate",
             deployed: "https://mmullen4.github.io/pw-generate/"
         },
         {
             title: 'Work Day Scheduler',
             description: 'This is a work day scheduler that allows users to save events to the calendar.',
-            image: "./assets/images/Work Day Scheduler.png",
+            image: "./assets/images/Work Day.png",
             repo: "https://github.com/MMullen4/Work-Day-Scheduler",
             deployed: "https://mmullen4.github.io/Work-Day-Scheduler/"  // Add more projects as needed.
 
