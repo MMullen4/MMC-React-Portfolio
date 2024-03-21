@@ -20,13 +20,17 @@ It will display the latest technologies (e.g. Vite and React) and skills I've le
 ## Visuals
 ![Alt text](<MMC React SS.png>)
 
+https://MMC-React-Portfolio.netlify.app
+
 
 ## Installation
 The site employs React and is deployed on Netlify.
 
 
 ## Usage
-N/A
+Admin URL: https://app.netlify.com/sites/MMC-React-Portfolio
+URL:       https://MMC-React-Portfolio.netlify.app
+Site ID:   df3a1469-369d-4483-b557-97609cf731c5
 
 
 ## Support
