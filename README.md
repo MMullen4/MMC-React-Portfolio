@@ -9,7 +9,7 @@
   - [Contribution](#contribution)
   - [Authors & Acknowledgement](#authors-and-acknowledgment)
   - [License](#license)
-  - [Projectstatus](#project status)
+  - [Project](#project-status)
 
 
 ## Description
