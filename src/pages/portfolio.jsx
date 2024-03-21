@@ -47,7 +47,6 @@ export default function Portfolio() {
                     <div className="imageContainer">
                         <img style={{ width: "100%" }} src={project.image} alt={project.title} />
                     </div>
-                    {/* <img src={project.image} alt={project.title} /> */}
                     <a href={project.repo}>Repo</a>
                     <a href={project.deployed}>Deployed</a>
                 </div>
