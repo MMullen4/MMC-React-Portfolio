@@ -9,6 +9,7 @@ import About from './pages/about.jsx'; // This is the new import that will allow
 import Error from './pages/error.jsx';
 import Contact from './pages/contact.jsx';
 import Portfolio from './pages/portfolio.jsx';
+import Resume from './pages/resume.jsx';
 
 
 const router = createBrowserRouter([
@@ -29,6 +30,10 @@ const router = createBrowserRouter([
       {
         path: '/portfolio', // set the path to /portfolio to indicate that this is the portfolio page.
         element: <Portfolio />,
+      },
+      {
+        path: '/resume', // set the path to /resume to indicate that this is the resume page.
+        element: <Resume />,
       },
     ],
   },

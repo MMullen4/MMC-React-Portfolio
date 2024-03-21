@@ -32,8 +32,7 @@ export default function Nav() {
                     <Link to="/contact">Contact</Link>
                 </div>
                 <div style={linkStyle}>
-                    <a href="/">Resume</a>
-                    {/*new link to resume.pdf. */}
+                    <Link to="/resume">Resume</Link>
                 </div>
             </section>
         </nav>

@@ -26,8 +26,8 @@ p {
     border-radius: 10px;
     background-color: #d0e7c6;
 }
-div.div.div {
-    scale: 1;
+.imageContainer {
+    width: 30%;
     padding: 30px;
     font-weight: 500;
     color: #6464ff;

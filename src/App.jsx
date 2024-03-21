@@ -11,13 +11,11 @@ function App() {
   return (
     <>
       {/* // Nav component renders the navigation bar. */}
-      <Nav /> 
-      {/* // Form component renders the form. */}
-      
+      <Nav />
       <main className="main-content">
         {/* Outlet is a component that will be used to render the children of the router. */}
-        <Outlet /> 
-       
+        <Outlet />
+
       </main>
     </>
   )
