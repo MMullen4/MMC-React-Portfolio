@@ -1,7 +1,6 @@
 import { Link } from 'react-router-dom'; // new import to navigate to new pages.
 import mmcLogo from '../assets/MMC.svg'; // import MMC logo.
 import './styles/nav.css';
-import tailwindConfig from '../../tailwind.config';
 
 export default function Nav() {
     const linkStyle = { border: '1px black', padding: '5px', margin: '5px' };
