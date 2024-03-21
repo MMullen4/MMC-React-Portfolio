@@ -1,32 +1,51 @@
 # Project Name - MMC-React-Portfolio
 
+## Table of Contents
+  - [Description](#project-description)
+  - [Visuals](#visuals)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Support](#support)
+  - [Contribution](#contribution)
+  - [Authors & Acknowledgement](#authors-and-acknowledgment)
+  - [License](#license)
+  - [Projectstatus](#project status)
 
 
-Description
-This site is a portfolio of several projects I completed during my full-stack coding bootcamp class at UCLA.
-
-(https://mmullen4.github.io/HW6-Weather-app/)
-
-Visuals
+## Description
+This site is a portfolio of several projects I completed during my full-stack coding bootcamp class at UCLA, along with info regarding my background and contact details.
+It will display the latest technologies and skills I've learned through the course. 
 
 
-Installation
+## Visuals
+![Alt text](<MMC React SS.png>)
 
 
-Usage
+## Installation
+The site employs React and is deployed on Netlify.
 
 
-Support
-PLease reach out to me with any questions - matt@mmcprintpackaging.com
+## Usage
+N/A
 
-Contributing
+
+## Support
+Please reach out to me with any questions - matt@mmcprintpackaging.com
+
+
+## Contributing
 Open to suggestions.
+[MMullen4](https://github.com/MMullen4)
 
-Authors and acknowledgment
+
+## Authors and acknowledgment
 Myself and UCLA tutors and Bootcamp lessons
 
-License
-MIT License
 
-Project status
+## License
+MIT
+  [![Generic badge](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/.)
+
+
+## Project status
 Ongoing and will be updated with new/relavent info as needed.
